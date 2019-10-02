@@ -1,0 +1,365 @@
+html.dark {
+  font-family: "SF Cartoonist Hand", Gamja Flower;
+  font-size: 20px;
+}
+html.dark input, html.dark label, html.dark select, html.dark textarea {
+	font-size: 20px;
+	font-weight: 400;
+	line-height: normal;
+	font-family: SF Cartoonist Hand !important;
+}
+html.dark .Button, html.dark .Button.is-visited, html.dark .Button:visited, html.dark button, html.dark button.is-visited, html.dark button:visited, html.dark input.is-visited[type="button"], html.dark input:visited[type="button"], html.dark input[type="button"] {
+	display: inline-block;
+	position: relative;
+	padding: 6px 14px;
+	background-color: #fff;
+	border: 1.5px solid #00d9db;
+	border-radius: 36px;
+	color: #1da1f2;
+	cursor: pointer;
+	font-family: SF Cartoonist Hand;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 22px;
+}
+.txt-size--14, html.dark .txt-size--14{
+	font-size: 20px !important;
+}
+
+html.dark .detail-view-inline {
+	margin-top: 8px;
+	background-color: #000;
+	border-top: 1.5px solid #fff;
+}
+
+html.dark .app-nav-tab {
+	font-size: 18px;
+	color: #000;
+	cursor: pointer;
+}
+html.dark .app-nav-tab {
+	font-size: 18px;
+	color: #000;
+	cursor: pointer;
+}
+html.dark body {
+ height:100%;
+ background-color:#000;
+ overflow:hidden
+}
+html.dark .column-panel {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    background: #000;
+}
+html.dark .column-options {
+	background-color: #000;
+}
+html.dark .stream-item {
+	border-bottom: 1.5px solid #fff;
+	background-color: #000;
+}
+.js-app-columns.app-columns.horizontal-flow-container.without-tweet-drag-handles {
+	background: #111;
+}
+html.dark .with-column-divider-bottom {
+	border-bottom: 1.5px solid #fff;
+}
+html.dark .column-header, html.dark .column-header-temp {
+	box-sizing: border-box;
+	position: relative;
+	height: 50px;
+	color: inherit;
+	background-color: #000;
+	line-height: 50px;
+}
+html.dark .column-message {
+    background-color: #000;
+}
+html.dark .column-nav-item {
+	position: relative;
+	height: 45px;
+	box-sizing: border-box;
+	counter-increment: column-nav;
+	color: #fff;
+	background-color: #000;
+}
+html.dark .app-navigator {
+	position: absolute;
+	bottom: 100px;
+	left: 0;
+	right: 0;
+	background-color: #000;
+}
+html.dark .column-header-link {
+	padding: 1px 3px;
+	color: #00d9db;
+	font-size: 13px;
+	display: inline-block;
+}
+html.dark .app-header.is-condensed .app-header-inner {
+	width: 60px;
+	padding: 10px 12px;
+	background-color: #000;
+}
+.is-hidden.visible-in-contracted-header.height--53.full-width.flex.flex-align--center.flex-justify-content--center {
+	background-color: #000;
+}
+html.dark .column-options .button-tray {
+	background-color: #000;
+	text-align: justify;
+	font-size: 0;
+}
+html.dark .compose .other-replies-link, html.dark .compose .other-replies-link:hover, html.dark .inline-reply .other-replies-link, html.dark .inline-reply .other-replies-link:hover {
+	color: #00d9db;
+}
+
+/*-------*/
+
+html.dark .prf-meta {
+	line-height: 15px;
+	border-top: 1px solid #000;
+	background: #000;
+}
+html.dark .prf .lst-profile a {
+	height: 65px;
+	width: auto;
+	border: 0;
+	border-right: 1px solid #fff;
+}
+html.dark .prf .lst-profile i {
+	color: #fff;
+	margin-top: 4px;
+	font-size: 34px;
+}
+html.dark .prf-stats a:hover, html.dark .prf-stats a:hover strong {
+	text-decoration: none;
+	color: #b5feff;
+}
+.prf-bio, html.dark .prf .location, {
+    font-size: 20px;
+}
+.js-profile-columns {
+	background: #000;
+	border-top: 1.5px solid white;
+}
+html.dark .prf-stats a strong {
+	display: block;
+	color: #fff;
+	font-size: 14px;
+}
+html.dark .prf-stats a {
+	display: block;
+	padding: 11px 12px;
+	font-size: 10px;
+	color: #fff;
+}
+.js-social-proof.social-proof-container.txt-size--13.cf.padding-al {
+	background: #000;
+	border-top: 2px #0f0f0f;
+}
+html.dark .prf .lst-profile a:hover i {
+	color: #eff8ff;
+}
+/*-------*/
+
+html.dark a {
+	color: #00d9db;
+}
+html.dark .other-replies-link, html.dark .other-replies-link:hover {
+	color: #00d9db;
+}
+
+html.dark .scroll-styled-h, html.dark .scroll-styled-v {
+	scrollbar-color: #00d9db transparent !important;
+	scrollbar-width: thin;
+	background:#000;
+}
+html.dark .Button.btn-fav.s-favorited, html.dark .Button.btn-fav.s-favorited:visited, html.dark .Button.Button--primary, html.dark .Button.Button--primary:visited, html.dark .ButtonGroup--primary > .Button, html.dark .ButtonGroup--primary > .Button:visited, html.dark .ButtonGroup--primary > .ButtonGroup > .Button, html.dark .ButtonGroup--primary > .ButtonGroup > .Button:visited, html.dark .ButtonGroup--primary > .ButtonGroup > button, html.dark .ButtonGroup--primary > .ButtonGroup > button:visited, html.dark .ButtonGroup--primary > .ButtonGroup > input:visited[type="button"], html.dark .ButtonGroup--primary > .ButtonGroup > input[type="button"], html.dark .ButtonGroup--primary > button, html.dark .ButtonGroup--primary > button:visited, html.dark .ButtonGroup--primary > input:visited[type="button"], html.dark .ButtonGroup--primary > input[type="button"], html.dark .s-following .follow-btn:hover .Button.following-text, html.dark .s-following .follow-btn:hover .Button.following-text:visited, html.dark .s-following .follow-btn:hover button.following-text, html.dark .s-following .follow-btn:hover button.following-text:visited, html.dark .s-following .follow-btn:hover input.following-text:visited[type="button"], html.dark .s-following .follow-btn:hover input.following-text[type="button"], html.dark button.btn-fav.s-favorited, html.dark button.btn-fav.s-favorited:visited, html.dark button.Button--primary, html.dark button.Button--primary:visited, html.dark input.btn-fav.s-favorited:visited[type="button"], html.dark input.btn-fav.s-favorited[type="button"], html.dark input.Button--primary:visited[type="button"], html.dark input.Button--primary[type="button"] {
+	background-color: #00d9db !important;
+	color: #fff;
+}
+html.dark .app-nav-link {
+	font-size: 18px;
+	color: #00d9db !important;
+	cursor: pointer;
+}
+html.dark .app-nav-tab {
+	font-size: 18px;
+	color: #00d9db !important;
+	cursor: pointer;
+}
+html.dark .app-search-fake {
+	width: 100%;
+	color: #00d9db !important;
+	border: 1.5px solid #00d9db !important;
+	background-color: transparent;
+}
+html.dark .Button.btn-fav.s-favorited:active, html.dark .Button.Button--primary.is-active, html.dark .Button.Button--primary:active, html.dark .Button.is-active.btn-fav.s-favorited, html.dark .ButtonGroup--primary > .Button.is-active, html.dark .ButtonGroup--primary > .Button:active, html.dark .ButtonGroup--primary > .ButtonGroup > .Button.is-active, html.dark .ButtonGroup--primary > .ButtonGroup > .Button:active, html.dark .ButtonGroup--primary > .ButtonGroup > button.is-active, html.dark .ButtonGroup--primary > .ButtonGroup > button:active, html.dark .ButtonGroup--primary > .ButtonGroup > input.is-active[type="button"], html.dark .ButtonGroup--primary > .ButtonGroup > input:active[type="button"], html.dark .ButtonGroup--primary > button.is-active, html.dark .ButtonGroup--primary > button:active, html.dark .ButtonGroup--primary > input.is-active[type="button"], html.dark .ButtonGroup--primary > input:active[type="button"], html.dark .s-following .follow-btn:hover .Button.following-text:active, html.dark .s-following .follow-btn:hover .Button.is-active.following-text, html.dark .s-following .follow-btn:hover button.following-text:active, html.dark .s-following .follow-btn:hover button.is-active.following-text, html.dark .s-following .follow-btn:hover input.following-text:active[type="button"], html.dark .s-following .follow-btn:hover input.is-active.following-text[type="button"], html.dark button.btn-fav.s-favorited:active, html.dark button.Button--primary.is-active, html.dark button.Button--primary:active, html.dark button.is-active.btn-fav.s-favorited, html.dark input.btn-fav.s-favorited:active[type="button"], html.dark input.Button--primary.is-active[type="button"], html.dark input.Button--primary:active[type="button"], html.dark input.is-active.btn-fav.s-favorited[type="button"] {
+	box-shadow: 0 0 0 2px #fff,0 0 0 4px #cff9ff;
+	background-color: #00d9db;
+	border-color: #00748c;
+	color: #fff;
+}
+html.dark .Button.btn-fav.s-favorited, html.dark .Button.btn-fav.s-favorited:visited, html.dark .Button.Button--primary, html.dark .Button.Button--primary:visited, html.dark .ButtonGroup--primary > .Button, html.dark .ButtonGroup--primary > .Button:visited, html.dark .ButtonGroup--primary > .ButtonGroup > .Button, html.dark .ButtonGroup--primary > .ButtonGroup > .Button:visited, html.dark .ButtonGroup--primary > .ButtonGroup > button, html.dark .ButtonGroup--primary > .ButtonGroup > button:visited, html.dark .ButtonGroup--primary > .ButtonGroup > input:visited[type="button"], html.dark .ButtonGroup--primary > .ButtonGroup > input[type="button"], html.dark .ButtonGroup--primary > button, html.dark .ButtonGroup--primary > button:visited, html.dark .ButtonGroup--primary > input:visited[type="button"], html.dark .ButtonGroup--primary > input[type="button"], html.dark .s-following .follow-btn:hover .Button.following-text, html.dark .s-following .follow-btn:hover .Button.following-text:visited, html.dark .s-following .follow-btn:hover button.following-text, html.dark .s-following .follow-btn:hover button.following-text:visited, html.dark .s-following .follow-btn:hover input.following-text:visited[type="button"], html.dark .s-following .follow-btn:hover input.following-text[type="button"], html.dark button.btn-fav.s-favorited, html.dark button.btn-fav.s-favorited:visited, html.dark button.Button--primary, html.dark button.Button--primary:visited, html.dark input.btn-fav.s-favorited:visited[type="button"], html.dark input.btn-fav.s-favorited[type="button"], html.dark input.Button--primary:visited[type="button"], html.dark input.Button--primary[type="button"] {
+	background-color: #00d9db !important;
+	border: 1px solid #000;
+	color: #fff;
+}
+html.btd-on .btd-settings-btn .icon {
+	color: #00d9db !important;
+}
+html.dark a:active, html.dark a:focus, html.dark a:hover {
+	color: #00d9db !important;
+	text-decoration: underline;
+}
+html.dark .med-flaglink:hover, html.dark .med-origlink:hover, html.dark .med-flaglink, html.dark .med-origlink {
+	color: #00d9db;
+	text-decoration: underline;
+}
+html.dark .color-twitter-blue {
+	color: #00d9db;
+}
+html.dark .facet-subtitle {
+	font-size: 12px;
+	display: block;
+	color: #00d9db;
+}
+html.dark button.btn-options-tray:focus, html.dark button.btn-options-tray:hover, html.dark input[type="button"].btn-options-tray:focus, html.dark input[type="button"].btn-options-tray:hover {
+	color: #00d9db !important;
+}
+html.dark .Button, html.dark .Button.is-visited, html.dark .Button:visited, html.dark button, html.dark button.is-visited, html.dark button:visited, html.dark input.is-visited[type="button"], html.dark input:visited[type="button"], html.dark input[type="button"] {
+	color: #00d9db;
+	cursor: pointer;
+	font-family: SF Cartoonist Hand;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 22px;
+}
+html.dark .column-header .column-type-icon {
+	color: #fff;
+}
+html.dark .column-nav-link {
+	position: relative;
+	height: 100%;
+	color: #fff;
+	cursor: pointer;
+}
+html.dark .icon-follow-color {
+	color: #00d9db;
+}
+html.dark .icon-user-dd::before {
+	content: "\F107";
+	color: #00d9db;
+}
+html.dark .Button, html.dark .Button.is-visited, html.dark .Button:visited, html.dark button, html.dark button.is-visited, html.dark button:visited, html.dark input.is-visited[type="button"], html.dark input:visited[type="button"], html.dark input[type="button"] {
+	display: inline-block;
+	position: relative;
+	padding: 6px 14px;
+	background-color: #fff;
+	border: 1.5px solid #00d9db;
+	border-radius: 36px;
+	color: #00d9db;
+	cursor: pointer;
+	font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 22px;
+}
+html.dark .dm-action:active .icon-reply, html.dark .dm-action:active .reply-count, html.dark .dm-action:focus .icon-reply, html.dark .dm-action:focus .reply-count, html.dark .dm-action:hover .icon-reply, html.dark .dm-action:hover .reply-count, html.dark .is-selected.dm-action .icon-reply, html.dark .is-selected.dm-action .reply-count, html.dark .is-selected.tweet-detail-action .icon-reply, html.dark .is-selected.tweet-detail-action .reply-count, html.dark .tweet-action.is-selected .icon-reply, html.dark .tweet-action.is-selected .reply-count, html.dark .tweet-action:active .icon-reply, html.dark .tweet-action:active .reply-count, html.dark .tweet-action:focus .icon-reply, html.dark .tweet-action:focus .reply-count, html.dark .tweet-action:hover .icon-reply, html.dark .tweet-action:hover .reply-count, html.dark .tweet-detail-action:active .icon-reply, html.dark .tweet-detail-action:active .reply-count, html.dark .tweet-detail-action:focus .icon-reply, html.dark .tweet-detail-action:focus .reply-count, html.dark .tweet-detail-action:hover .icon-reply, html.dark .tweet-detail-action:hover .reply-count {
+	color: #00d9db;
+}
+/*~~~~~~~~*/
+html.dark .dropdown-menu, .caret {
+	background-color: #111;
+	color: #fff;
+	position: absolute;
+	z-index: 1001;
+	text-align: left;
+	font-weight: 400;
+	font-size: 13px;
+	line-height: 18px;
+	box-shadow: 0 1px 4px rgba(0,0,0,.7);
+}
+html.dark .dropdown-menu .is-selected {
+    background: #00d9db;
+    color: #fff;
+}
+li.is-selectable > a:hover {
+    color: #fff !important;
+}
+
+html.dark .mdl {
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+	width: 643px;
+	height: 630px;
+	margin: 0 auto;
+	background-color: #0a0a0a;
+	text-align: left;
+	border-radius: 14px;
+	box-shadow: 0 0 10px rgba(20,23,26,.5);
+}
+
+html.dark .column-header .column-heading {
+	max-height: 50px;
+	font-size: 24px;
+}
+html.dark .column-title-back {
+	color: inherit;
+	font-size: 24px;
+	font-weight: 700;
+}
+html.dark .inline-reply {
+	transition-property: max-height;
+	transition-duration: .25s;
+	transition-delay: 0;
+	background-color: #0b0b0b;
+	cursor: default;
+	overflow: hidden;
+	margin-top: 8px;
+	color: #fff;
+	box-sizing: border-box;
+	max-height: 320px;
+}
+html.dark .column-title .attribution {
+	font-weight: 400;
+	font-size: 16px;
+	padding: 3px 0 0 4px;
+}
+html.dark .detail-view-inline-text {
+    background-color: #0b0b0b;
+}
+html.dark #calcurrent {
+	background-color: #00d9db;
+	color: #14171a;
+}
+html.dark .lst .s-selected {
+	background-color: #00d9db;
+	color: #fff;
+}
+
+html.dark .stroke-twitter-blue {
+	stroke: #00d9db;
+}
+html.dark .compose-account-selected .icon::before, html.dark .compose-account-selected .Icon::before {
+	font-weight: 700;
+	position: relative;
+	bottom: 6px;
+}
+html.dark .compose {
+	background-color: #0b0b0b;
+	color: #fff;
+	height: 100vh;
+}
+html.dark .old-composer-footer {
+	background-color: #000;
+}
+html.dark .social-proof-for-tweet-title {
+	background-color: #000;
+	color: #8899a6;
+	border-bottom: 1px solid #38444d;
+}
